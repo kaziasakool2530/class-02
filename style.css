@@ -1,0 +1,95 @@
+
+img{max-width: 100%;
+}
+
+body{
+margin:10;
+font-family:'montsrrat',sans-serif;
+}
+.banner-section{
+background-image: url(images/Mount-Everest.jpg);
+background-color:orange;
+padding-top: 180px;
+padding-bottom: 180px;
+background-blend-mode:normal; 
+}
+
+.container{
+width:1200px;
+margin:auto;
+text-align: center;
+}
+
+h1{
+font-size:40px;
+color:#666;
+margin:0;
+}
+
+strong{
+color:#d8eb18;
+}
+
+span{
+color:#fa370b;
+}
+
+p{
+color: #090909;	
+font-size: 30px;
+}
+
+header{
+background:#0a5878;;
+}
+
+ul{
+
+	margin:0;
+
+	background-color: 
+}
+
+
+ul li{
+list-style-type:none;
+display:inline-block;
+
+}
+
+ul li a{
+color:white;
+font-size:18px;
+text-decoration: none;
+text-transform:uppercase;
+font-weight:600;
+padding:21px;
+display:block;
+}
+.View_more{
+	text-decoration: none;
+    font-weight: 700;
+    background-color: white;
+    color: #0d0d0d;
+    padding: 10px;
+    text-transform: uppercase;
+
+
+
+}
+
+.View_more:hover{
+	background-color: black;
+}
+
+.box{
+	float: left;
+    width: 50%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding: 15px;
+    box-sizing:border-box;
+}
+.box p{
+	color: #333;
+}
